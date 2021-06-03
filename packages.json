@@ -1,0 +1,26 @@
+[
+    {
+        "package": "greta",
+        "url": "https://github.com/greta-dev/greta"
+    },
+    {
+        "package": "greta.gp",
+        "url": "https://github.com/greta-dev/greta.gp"
+    },
+    {
+        "package": "greta.dynamics",
+        "url": "https://github.com/greta-dev/greta.dynamics"
+    },
+    {
+        "package": "greta.hmm",
+        "url": "https://github.com/greta-dev/greta.hmm"
+    },
+    {
+        "package": "greta.gam",
+        "url": "https://github.com/greta-dev/greta.gam"
+    },
+    {
+        "package": "greta.multivariate",
+        "url": "https://github.com/greta-dev/greta.multivariate"
+    }
+]
