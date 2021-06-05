@@ -18,9 +18,5 @@
     {
         "package": "greta.gam",
         "url": "https://github.com/greta-dev/greta.gam"
-    },
-    {
-        "package": "greta.multivariate",
-        "url": "https://github.com/greta-dev/greta.multivariate"
     }
 ]
