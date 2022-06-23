@@ -18,5 +18,9 @@
     {
         "package": "greta.gam",
         "url": "https://github.com/greta-dev/greta.gam"
+    },
+    {
+        "package": "greta.distributions",
+        "url": "https://github.com/greta-dev/greta.distributions"
     }
 ]
